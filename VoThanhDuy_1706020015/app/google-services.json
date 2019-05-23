@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "54738251951",
+    "firebase_url": "https://vothanhduy1706020015.firebaseio.com",
+    "project_id": "vothanhduy1706020015",
+    "storage_bucket": "vothanhduy1706020015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54738251951:android:68ae50b4ee0a9245",
+        "android_client_info": {
+          "package_name": "com.example.vothanhduy_1706020015"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54738251951-i8l5u3q4d2fsgke9hvcs7pl3h103ub2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vothanhduy_1706020015",
+            "certificate_hash": "d91050416320fdf5507809657d0dda21a9df6b09"
+          }
+        },
+        {
+          "client_id": "54738251951-4j37ibvfje2ah148hgv9ukq9hdlbskrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vothanhduy_1706020015",
+            "certificate_hash": "0efc4778e8cb4e84746784b6fad0d8f76679cc89"
+          }
+        },
+        {
+          "client_id": "54738251951-f63205j834bid64um922tecl4cqdp40v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHEaS8yeSSARMrxe9nFoySJp_qEwNbzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54738251951-f63205j834bid64um922tecl4cqdp40v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
